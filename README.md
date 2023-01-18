@@ -1,11 +1,14 @@
 # TalentLyft Angular Interview a02
+![Screenshot](./talentlyft-interview-a02.png)
+
+# Zadatak
 Potrebno je kreirati Angular aplikaciju pomoću `Angular CLI-a` koja simulira svakodnevno korisničko ponašanje.
 
 Aplikacija se treba sastojati od toolbar-a na vrhu ekrana koji ima dva linka za dvije rute.
 Defaultno se prikazuje `Form page`.
 Klikom na `Form page`, otvara se prva ruta, klikom na `List page` otvara se druga ruta.
 
-### Na prvom ekranu se nalazi:
+### Na `Form page` ekranu se nalazi:
 1) **Jednostavna forma za unos podataka**. Ona se sastoji od:
    - Unosa imena
    - Unosa prezimena
@@ -23,8 +26,8 @@ Klikom na `Form page`, otvara se prva ruta, klikom na `List page` otvara se drug
     Klikom na button `Remove` podatci se uklanjaju iz prikaza.
     Klikom na button `Save`, trenutni podatci iz forme se spremaju u memoriju (trebat će nam za prikaz na drugom ekranu).
 
-### Na drugom ekranu se nalazi:
-Na drugoj ruti se nalazi lista do sada spremljenih podataka u proizvoljnom formatu i s proizvoljnim stilovima.
+### Na `List page` ekranu se nalazi:
+Lista do sada spremljenih podataka u proizvoljnom formatu i s proizvoljnim stilovima.
 
 # Ostalo
 
