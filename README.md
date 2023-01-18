@@ -25,3 +25,13 @@ Klikom na `Form page`, otvara se prva ruta, klikom na `List page` otvara se drug
 
 ## Na drugom ekranu se nalazi:
 Na drugoj ruti se nalazi lista do sada spremljenih podataka u proizvoljnom formatu i s proizvoljnim stilovima.
+
+# Ostalo
+
+Redoslijed rješavanja funkcionalnosti nije bitan. Dozvoljeno je koristiti se dokumentacijom za Angular (https://angular.io/) te bilo kojih drugih izvora. Za bilo kakva dodatna pitanja, potrebno je obratiti se na email s kojeg je zadatak poslan.
+
+# Slanje rješenja
+
+Rješenje zadatka poslati u .zip formatu (bez node_modules foldera) kao odgovor na email s kojeg je zadatak poslan.
+
+Sretno sa rješavanjem! :)
