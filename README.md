@@ -23,7 +23,7 @@ Klikom na `Form page`, otvara se prva ruta, klikom na `List page` otvara se drug
     Klikom na button `Remove` podatci se uklanjaju iz prikaza.
     Klikom na button `Save`, trenutni podatci iz forme se spremaju u memoriju (trebat će nam za prikaz na drugom ekranu).
 
-## Na drugom ekranu se nalazi:
+### Na drugom ekranu se nalazi:
 Na drugoj ruti se nalazi lista do sada spremljenih podataka u proizvoljnom formatu i s proizvoljnim stilovima.
 
 # Ostalo
