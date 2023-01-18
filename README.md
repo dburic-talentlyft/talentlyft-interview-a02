@@ -15,7 +15,7 @@ Klikom na `Form page`, otvara se prva ruta, klikom na `List page` otvara se drug
    - Unosa email-a
    - Unosa hobija (minimalno 3 hobija, recimo nogomet, košarka, rukomet)
    
-   Klikom na button `Reset` treba resetira vrijednosti forme na inicijalnu vrijednost.
+   Klikom na button `Reset` treba resetirati vrijednosti forme na inicijalnu vrijednost.
    Klikom na button `View` treba prikazati unesene vrijednosti forme u donjem dijelu prvog ekrana kao prikaz podataka.
 
 2) **Jednostavni prikaz podataka**
