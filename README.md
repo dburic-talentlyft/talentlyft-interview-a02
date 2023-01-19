@@ -2,7 +2,7 @@
 ![Screenshot](./talentlyft-interview-a02.png)
 
 # Zadatak
-Potrebno je kreirati Angular aplikaciju pomoću `Angular CLI-a` koja simulira svakodnevno korisničko ponašanje.
+Potrebno je kreirati Angular aplikaciju pomoću `Angular CLI-a` koja poprima izgled dizajna sa slike.
 
 Aplikacija se treba sastojati od toolbar-a na vrhu ekrana koji ima dva linka za dvije rute.
 Defaultno se prikazuje `Form page`.
